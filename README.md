@@ -1,70 +1,77 @@
-<h1 align="center">Hi 👋, I'm Rohit Ranjan</h1>
+<h1 align="center">Rohit Ranjan</h1>
 
-<h3 align="center">Data Analyst | Business Intelligence | Power BI | SQL | Python | Azure</h3>
+<h3 align="center">
+Data Analyst | Business Intelligence | Power BI | SQL | Python | Azure
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PowerBI-Analytics-yellow"/>
+<img src="https://img.shields.io/badge/SQL-Data-blue"/>
+<img src="https://img.shields.io/badge/Python-AI-green"/>
+<img src="https://img.shields.io/badge/Azure-Cloud-blue"/>
+<img src="https://img.shields.io/badge/Open%20to-Data%20Analyst-success"/>
+</p>
 
 ---
 
-## 🚀 About Me
+# Highlights
 
-🎓 B.Tech (Information Technology) Graduate
+📊 Built **5+ dashboards**
 
-📊 Data Analyst aspirant with internship experience in Data Analysis, Business Intelligence, Dashboard Development, KPI Reporting, and AI-powered analytics solutions.
+📈 Analyzed **2L+ records**
 
-💡 Interested in Data Analytics, Business Intelligence, AI Applications, Dashboarding, and Data-driven decision making.
+👥 Led **15 interns**
+
+🚀 Built deployed AI products with **100+ users**
+
+🏆 Participated in **5+ hackathons**
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-Python • SQL
+# Tech Stack
 
 ### Analytics & BI
-Power BI • Tableau • Excel • Dashboard Development • KPI Reporting • EDA • Data Visualization
+Power BI • Tableau • KPI Reporting • Dashboard Development • EDA • Data Visualization
 
-### Libraries
-Pandas • NumPy • Matplotlib • Scikit-Learn
+### Programming
+Python • SQL • Pandas • NumPy • Scikit-Learn
 
 ### Cloud & Tools
-Azure • Databricks • Git • GitHub • Jupyter Notebook • VS Code • Render
+Azure • Databricks • Git • GitHub • Jupyter • Render
 
 ---
 
-## 📌 Featured Projects
+# Featured Projects
 
-🔹 InsightFlow – AI-Powered Data Analysis Agent
+🚀 InsightFlow – AI Data Analysis Agent
 
-🔹 Global Health Expenditure Analysis
+🌍 Global Health Expenditure Analysis
 
-🔹 HealthTrackk – Healthcare Analytics Platform
+🏥 HealthTrackk – Healthcare Analytics Platform
 
-🔹 Customer Analytics & EDA Projects
-
----
-
-## 📈 Experience
-
-• Data Analyst Intern — Blue Planet Info Solutions
-
-• Data Visualization Intern — Infosys Springboard
-
-• Data Analyst (BI & Reporting) Intern — Infotact Solutions
+📈 Customer Analytics & EDA Projects
 
 ---
 
-## 📜 Certifications
+# Experience Snapshot
 
-🏅 Google Data Analytics Professional Certificate
+🔹 Data Analyst Intern — Blue Planet
 
-🏅 IBM Data Analytics Professional Certificate
+🔹 Data Visualization Intern — Infosys Springboard
 
-🏅 Microsoft Azure Fundamentals (AZ-900)
-
-🏅 HackerRank SQL Intermediate
+🔹 Data Analyst (BI & Reporting) Intern — Infotact
 
 ---
 
-## 📫 Connect With Me
+# GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjannrohit&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjannrohit&layout=compact)
+
+---
+
+# Connect
 
 LinkedIn: [Add Link]
 
